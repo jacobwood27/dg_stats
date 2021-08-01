@@ -22,5 +22,51 @@
         "fill": false
       }
     ]
-  }
+  },
+  "discs": [
+    {
+      "id": "DESTROYAH",
+      "image": "pink_destroyer.png",
+      "mold": "Innova Destroyer",
+      "plastic": "STAR",
+      "weight": 175.3,
+      "numbers": "12, 5, -1, 3"
+    },
+    {
+      "id": "BIG-PINK",
+      "image": "pink_champion_sidewinder.png",
+      "mold": "Innova Sidewinder",
+      "plastic": "CHAMPION",
+      "weight": 175.2,
+      "numbers": "9, 5, -3, 1"
+    },
+    {
+      "id": "BUZZZY-BOY",
+      "image": "green_buzzz.png",
+      "mold": "Discraft Buzzz",
+      "plastic": "Z",
+      "weight": 178.6,
+      "numbers": "5, 4, -1, 1"
+    },
+    {
+      "id": "JUDGEY-JOY",
+      "image": "pink_judge.png",
+      "mold": "Dynamic Discs Judge",
+      "plastic": "CLASSIC BLEND",
+      "weight": 173.4,
+      "numbers": "2, 4, 0, 1"
+    }
+  ],
+  "rounds": [
+    {
+      "date": "2021-7-26",
+      "course": "Kit Carson",
+      "result": "-1"
+    },
+    {
+      "date": "2021-7-26",
+      "course": "Kit Carson",
+      "result": "-1"
+    }
+  ]
 }
