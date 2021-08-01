@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<!--
+This is a starter template page. Use this page to start your new project from
+scratch. This page gets rid of all links and provides the needed markup only.
+-->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AdminLTE 3 | Top Navigation</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="dist/css/adminlte.min.css">
+</head>
+
+<body class="hold-transition layout-top-nav">
+    <div class="wrapper">
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+
+
+            <div class="content-header">
+                <div class="container">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <h1 class="m-0"> Jacob's Disc Golf Dash</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Main content -->
+            <div class="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+
+                            <!-- Scores Graph -->
+                            <div class="card card-info">
+                                <div class="card-header">
+                                    <h3 class="card-title">Recent Scores</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart">
+                                        <canvas id="recent_scores"
+                                            style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Drives Graph -->
+                            <div class="card card-info">
+                                <div class="card-header">
+                                    <h3 class="card-title">Recent Driving Performance</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart">
+                                        <canvas id="recent_drives"
+                                            style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <div class="col-lg-6">
+
+                            <!-- Putting Graph -->
+                            <div class="card card-info">
+                                <div class="card-header">
+                                    <h3 class="card-title">Recent Putting Performance</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="chart">
+                                        <canvas id="recent_putts"
+                                            style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- Rounds Table -->
+                            <div class="card card-info">
+                                <div class="card-header">
+                                    <h3 class="card-title">Rounds</h3>
+                                </div>
+                                <!-- /.card-header -->
+                                <div class="card-body table-responsive p-0">
+                                    <table class="table table-hover text-nowrap">
+                                        <thead>
+                                            <tr>
+                                                <th>Date</th>
+                                                <th>Course</th>
+                                                <th>Result</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="rounds">
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <h4 class="card-title">What's In The Bag?</h4>
+                            </div>
+                            <div class="card-body">
+                                <div class="row" id="disc_gallery">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+        </div>
+
+        <!-- REQUIRED SCRIPTS -->
+
+        <!-- jQuery -->
+        <script src="plugins/jquery/jquery.min.js"></script>
+        <!-- Bootstrap 4 -->
+        <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <!-- AdminLTE App -->
+        <script src="dist/js/adminlte.min.js"></script>
+        <!-- AdminLTE for demo purposes -->
+        <!-- <script src="../../dist/js/demo.js"></script> -->
+        <!-- ChartJS -->
+        <script src="plugins/chart.js/Chart.min.js"></script>
+        <!-- Ekko Lightbox -->
+        <link rel="stylesheet" href="plugins/ekko-lightbox/ekko-lightbox.css">
+
+        <script>
+
+
+            $(function () {
+
+                // Get the latest data from github
+                $.ajax({
+                    url: "https://raw.githubusercontent.com/jacobwood27/dg_stats/main/stats/dash.json",
+                    dataType: "json"
+                }).done(function (data) {
+
+                    //Make Recent Scores chart
+                    var recent_scores_canvas = $('#recent_scores').get(0).getContext('2d')
+
+                    var lineChartOptions = {
+                        maintainAspectRatio: false,
+                        responsive: true,
+                        legend: { display: false },
+                        scales: {
+                            xAxes: [{ gridLines: { display: false } }],
+                            yAxes: [{ gridLines: { display: false } }]
+                        }
+                    }
+
+                    var lineChart = new Chart(recent_scores_canvas, {
+                        type: 'line',
+                        data: data.recent_scores,
+                        options: lineChartOptions
+                    });
+
+                    //Make long drive chart
+
+
+                    //Make long putts chart
+
+
+                    //Make "what's in the bag"
+                    gallery_div = document.getElementById('disc_gallery');
+                    data.discs.forEach(function (disc) {
+                        var div = document.createElement('div');
+                        div.className = 'col-sm-2';
+                        var img = document.createElement('img');
+                        img.className = 'img-fluid mb-2';
+                        img.src = 'https://raw.githubusercontent.com/jacobwood27/dg_stats/main/discs/images/' + disc.image;
+                        img.title = disc.id + '\n' +
+                            disc.mold + '\n' +
+                            'Plastic: ' + disc.plastic + '\n' +
+                            'Weight: ' + disc.weight + 'g' + '\n' +
+                            'Numbers: ' + disc.numbers;
+                        div.appendChild(img);
+                        gallery_div.appendChild(div);
+                    });
+
+
+                    //Make rounds table
+                    rounds_div = document.getElementById('rounds');
+                    data.rounds.forEach(function (round) {
+                        var tr = document.createElement('tr');
+
+                        var td = document.createElement('td');
+                        td.innerHTML = round.date;
+                        tr.appendChild(td);
+
+                        var td = document.createElement('td');
+                        td.innerHTML = round.course;
+                        tr.appendChild(td);
+
+                        var td = document.createElement('td');
+                        td.innerHTML = round.result;
+                        tr.appendChild(td);
+
+                        tr.addEventListener("click", () => {
+                            window.location.href = `https://google.com`;
+                        });
+
+                        rounds_div.appendChild(tr);
+                    });
+
+
+                });
+            })
+
+        </script>
+
+</body>
+
+</html>
