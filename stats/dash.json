@@ -1,0 +1,28 @@
+{
+  "round_scores": {
+    "datasets": [
+      {
+        "label": "Round Scores",
+        "data": [
+          {
+            "x": 1,
+            "y": 2
+          },
+          {
+            "x": 1,
+            "y": 2
+          }
+        ],
+        "borderColor": "rgba(60,141,188,0.8)",
+        "showLine": true,
+        "fill": false,
+        "backgroundColor": "rgba(60,141,188,0.9)",
+        "pointColor": "#3b8bba",
+        "pointHighlightFill": "#fff",
+        "pointHighlightStroke": "rgba(60,141,188,1)",
+        "pointRadius": 5,
+        "pointStrokeColor": "rgba(60,141,188,1)"
+      }
+    ]
+  }
+}
