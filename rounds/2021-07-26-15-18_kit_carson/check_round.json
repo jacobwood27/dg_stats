@@ -72,8 +72,8 @@
       "tee": "reg",
       "pin": "A",
       "par": 3,
-      "score": 4,
-      "running": 0
+      "score": 3,
+      "running": -1
     },
     {
       "hole": "8",
@@ -81,7 +81,7 @@
       "pin": "A",
       "par": 3,
       "score": 2,
-      "running": -1
+      "running": -2
     },
     {
       "hole": "9",
@@ -89,7 +89,7 @@
       "pin": "A",
       "par": 3,
       "score": 3,
-      "running": -1
+      "running": -2
     },
     {
       "hole": "10",
@@ -97,14 +97,14 @@
       "pin": "A",
       "par": 3,
       "score": 2,
-      "running": -2
+      "running": -3
     },
     {
       "hole": "11",
       "tee": "reg",
       "pin": "D",
       "par": 4,
-      "score": 5,
+      "score": 6,
       "running": -1
     },
     {
@@ -120,8 +120,8 @@
       "tee": "reg",
       "pin": "B",
       "par": 3,
-      "score": 3,
-      "running": -1
+      "score": 4,
+      "running": 0
     },
     {
       "hole": "14",
@@ -129,7 +129,7 @@
       "pin": "A",
       "par": 3,
       "score": 5,
-      "running": 1
+      "running": 2
     },
     {
       "hole": "15",
@@ -137,7 +137,7 @@
       "pin": "A",
       "par": 3,
       "score": 3,
-      "running": 1
+      "running": 2
     },
     {
       "hole": "16",
@@ -145,23 +145,23 @@
       "pin": "A",
       "par": 3,
       "score": 2,
-      "running": 0
+      "running": 1
     },
     {
       "hole": "17",
       "tee": "reg",
       "pin": "B",
       "par": 3,
-      "score": 3,
-      "running": 0
+      "score": 5,
+      "running": 3
     },
     {
       "hole": "18",
       "tee": "reg",
-      "pin": "B",
+      "pin": "A",
       "par": 3,
-      "score": 2,
-      "running": -1
+      "score": 1,
+      "running": 1
     }
   ],
   "features": [
@@ -169,7 +169,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
+        "disc_name": "SIDEWINDER-1",
         "name": "1"
       },
       "geometry": {
@@ -184,7 +184,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "2"
       },
       "geometry": {
@@ -199,7 +199,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "3"
       },
       "geometry": {
@@ -214,7 +214,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "4"
       },
       "geometry": {
@@ -229,7 +229,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "5"
       },
       "geometry": {
@@ -244,7 +244,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "6"
       },
       "geometry": {
@@ -259,7 +259,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "7"
       },
       "geometry": {
@@ -274,7 +274,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "8"
       },
       "geometry": {
@@ -289,7 +289,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "9"
       },
       "geometry": {
@@ -304,7 +304,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
+        "disc_name": "SIDEWINDER-1",
         "name": "10"
       },
       "geometry": {
@@ -319,7 +319,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "11"
       },
       "geometry": {
@@ -334,7 +334,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "12"
       },
       "geometry": {
@@ -349,7 +349,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "13"
       },
       "geometry": {
@@ -364,7 +364,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
+        "disc_name": "SIDEWINDER-1",
         "name": "14"
       },
       "geometry": {
@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
+        "disc_name": "SIDEWINDER-1",
         "name": "15"
       },
       "geometry": {
@@ -394,7 +394,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "16"
       },
       "geometry": {
@@ -409,7 +409,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "17"
       },
       "geometry": {
@@ -424,7 +424,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "18"
       },
       "geometry": {
@@ -439,7 +439,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "19"
       },
       "geometry": {
@@ -454,7 +454,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "DESTROYAH",
+        "disc_name": "DESTROYER-1",
         "name": "20"
       },
       "geometry": {
@@ -469,7 +469,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "21"
       },
       "geometry": {
@@ -484,7 +484,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "22"
       },
       "geometry": {
@@ -499,7 +499,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "DESTROYAH",
+        "disc_name": "DESTROYER-1",
         "name": "23"
       },
       "geometry": {
@@ -514,7 +514,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "24"
       },
       "geometry": {
@@ -529,7 +529,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "25"
       },
       "geometry": {
@@ -544,14 +544,14 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "DESTROYAH",
+        "disc_name": "DESTROYER-1",
         "name": "26"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.060871600088,
-          33.081487024672356
+          -117.0608814428015,
+          33.081491715054895
         ]
       }
     },
@@ -559,7 +559,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "27"
       },
       "geometry": {
@@ -574,7 +574,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "28"
       },
       "geometry": {
@@ -589,7 +589,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "29"
       },
       "geometry": {
@@ -604,14 +604,14 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "DESTROYER-1",
         "name": "30"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.06108795302495,
-          33.08210110114763
+          -117.06101008982554,
+          33.08222284706132
         ]
       }
     },
@@ -619,23 +619,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "DESTROYAH",
+        "disc_name": "JUDGE-1",
         "name": "31"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.06101816995067,
-          33.08222452205807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "32"
       },
       "geometry": {
         "type": "Point",
@@ -649,8 +634,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "33"
+        "disc_name": "JUDGE-1",
+        "name": "32"
       },
       "geometry": {
         "type": "Point",
@@ -664,8 +649,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "DESTROYAH",
-        "name": "34"
+        "disc_name": "DESTROYER-1",
+        "name": "33"
       },
       "geometry": {
         "type": "Point",
@@ -679,8 +664,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "35"
+        "disc_name": "JUDGE-1",
+        "name": "34"
       },
       "geometry": {
         "type": "Point",
@@ -694,8 +679,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "36"
+        "disc_name": "JUDGE-1",
+        "name": "35"
       },
       "geometry": {
         "type": "Point",
@@ -709,8 +694,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "37"
+        "disc_name": "JUDGE-1",
+        "name": "36"
       },
       "geometry": {
         "type": "Point",
@@ -724,8 +709,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
-        "name": "38"
+        "disc_name": "SIDEWINDER-1",
+        "name": "37"
       },
       "geometry": {
         "type": "Point",
@@ -739,8 +724,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "39"
+        "disc_name": "JUDGE-1",
+        "name": "38"
       },
       "geometry": {
         "type": "Point",
@@ -754,8 +739,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "40"
+        "disc_name": "JUDGE-1",
+        "name": "39"
       },
       "geometry": {
         "type": "Point",
@@ -769,14 +754,14 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
-        "name": "41"
+        "disc_name": "SIDEWINDER-1",
+        "name": "40"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.06186246590875,
-          33.08340732593466
+          -117.06186167909536,
+          33.08340349220521
         ]
       }
     },
@@ -784,7 +769,22 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "SIDEWINDER-1",
+        "name": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0617576107266,
+          33.08390745224724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "raw_mark",
+        "disc_name": "BUZZZ-1",
         "name": "42"
       },
       "geometry": {
@@ -799,7 +799,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "43"
       },
       "geometry": {
@@ -814,7 +814,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "44"
       },
       "geometry": {
@@ -829,7 +829,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "45"
       },
       "geometry": {
@@ -844,7 +844,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "46"
       },
       "geometry": {
@@ -859,14 +859,14 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "47"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.06198256366841,
-          33.084661017619496
+          -117.06198870606224,
+          33.08465984515567
         ]
       }
     },
@@ -874,7 +874,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "48"
       },
       "geometry": {
@@ -889,7 +889,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "49"
       },
       "geometry": {
@@ -904,7 +904,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "50"
       },
       "geometry": {
@@ -919,7 +919,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
+        "disc_name": "BUZZZ-1",
         "name": "51"
       },
       "geometry": {
@@ -934,7 +934,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "52"
       },
       "geometry": {
@@ -949,8 +949,23 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
+        "disc_name": "JUDGE-1",
         "name": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06202974532263,
+          33.08278570602426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "raw_mark",
+        "disc_name": "JUDGE-1",
+        "name": "54"
       },
       "geometry": {
         "type": "Point",
@@ -964,8 +979,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "54"
+        "disc_name": "JUDGE-1",
+        "name": "55"
       },
       "geometry": {
         "type": "Point",
@@ -979,8 +994,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG-PINK",
-        "name": "55"
+        "disc_name": "SIDEWINDER-1",
+        "name": "56"
       },
       "geometry": {
         "type": "Point",
@@ -994,8 +1009,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
-        "name": "56"
+        "disc_name": "BUZZZ-1",
+        "name": "57"
       },
       "geometry": {
         "type": "Point",
@@ -1009,8 +1024,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "57"
+        "disc_name": "JUDGE-1",
+        "name": "58"
       },
       "geometry": {
         "type": "Point",
@@ -1024,8 +1039,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "58"
+        "disc_name": "JUDGE-1",
+        "name": "59"
       },
       "geometry": {
         "type": "Point",
@@ -1039,8 +1054,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "59"
+        "disc_name": "JUDGE-1",
+        "name": "60"
       },
       "geometry": {
         "type": "Point",
@@ -1054,8 +1069,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "60"
+        "disc_name": "JUDGE-1",
+        "name": "61"
       },
       "geometry": {
         "type": "Point",
@@ -1069,8 +1084,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
-        "name": "61"
+        "disc_name": "BUZZZ-1",
+        "name": "62"
       },
       "geometry": {
         "type": "Point",
@@ -1084,8 +1099,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "62"
+        "disc_name": "JUDGE-1",
+        "name": "63"
       },
       "geometry": {
         "type": "Point",
@@ -1099,8 +1114,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "63"
+        "disc_name": "JUDGE-1",
+        "name": "64"
       },
       "geometry": {
         "type": "Point",
@@ -1114,8 +1129,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "64"
+        "disc_name": "JUDGE-1",
+        "name": "65"
       },
       "geometry": {
         "type": "Point",
@@ -1129,8 +1144,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
-        "name": "65"
+        "disc_name": "BUZZZ-1",
+        "name": "66"
       },
       "geometry": {
         "type": "Point",
@@ -1144,8 +1159,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "66"
+        "disc_name": "JUDGE-1",
+        "name": "67"
       },
       "geometry": {
         "type": "Point",
@@ -1159,8 +1174,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "67"
+        "disc_name": "JUDGE-1",
+        "name": "68"
       },
       "geometry": {
         "type": "Point",
@@ -1174,8 +1189,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
-        "name": "68"
+        "disc_name": "BUZZZ-1",
+        "name": "69"
       },
       "geometry": {
         "type": "Point",
@@ -1189,8 +1204,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
-        "name": "69"
+        "disc_name": "BUZZZ-1",
+        "name": "70"
       },
       "geometry": {
         "type": "Point",
@@ -1204,8 +1219,38 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "70"
+        "disc_name": "JUDGE-1",
+        "name": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0625305809109,
+          33.07993911718911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "raw_mark",
+        "disc_name": "JUDGE-1",
+        "name": "72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06251739290637,
+          33.07988183678027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "raw_mark",
+        "disc_name": "JUDGE-1",
+        "name": "73"
       },
       "geometry": {
         "type": "Point",
@@ -1219,8 +1264,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "71"
+        "disc_name": "JUDGE-1",
+        "name": "74"
       },
       "geometry": {
         "type": "Point",
@@ -1234,8 +1279,8 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BUZZZY-BOY",
-        "name": "72"
+        "disc_name": "BUZZZ-1",
+        "name": "75"
       },
       "geometry": {
         "type": "Point",
@@ -1249,29 +1294,14 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "73"
+        "disc_name": "JUDGE-1",
+        "name": "76"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -117.06142839922049,
           33.07954204527398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "thing": "raw_mark",
-        "disc_name": "JUDGEY-JOY",
-        "name": "74"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.06131684387769,
-          33.07951845389981
         ]
       }
     },
@@ -2429,7 +2459,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 0
       },
       "geometry": {
         "type": "LineString",
@@ -2449,7 +2479,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 0
       },
       "geometry": {
         "type": "LineString",
@@ -2469,7 +2499,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 0
       },
       "geometry": {
         "type": "LineString",
@@ -2477,26 +2507,6 @@
           [
             -117.06114794019136,
             33.08191211930736
-          ],
-          [
-            -117.06110384586538,
-            33.08208880426173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "thing": "throw",
-        "hole_res": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -117.06110384586538,
-            33.08208880426173
           ],
           [
             -117.0610898686287,
@@ -2649,7 +2659,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -2657,6 +2667,26 @@
           [
             -117.06186585437682,
             33.083424442195266
+          ],
+          [
+            -117.0617576107266,
+            33.08390745224724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "throw",
+        "hole_res": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.0617576107266,
+            33.08390745224724
           ],
           [
             -117.06172355577317,
@@ -2669,7 +2699,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -2689,7 +2719,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -2709,7 +2739,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -2729,7 +2759,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 1
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -2809,7 +2839,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 0
+        "hole_res": 1
       },
       "geometry": {
         "type": "LineString",
@@ -2829,7 +2859,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 0
+        "hole_res": 1
       },
       "geometry": {
         "type": "LineString",
@@ -2837,6 +2867,26 @@
           [
             -117.06206832361107,
             33.082765994791885
+          ],
+          [
+            -117.06202974532263,
+            33.08278570602426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "throw",
+        "hole_res": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.06202974532263,
+            33.08278570602426
           ],
           [
             -117.06184989403951,
@@ -2849,7 +2899,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 0
+        "hole_res": 1
       },
       "geometry": {
         "type": "LineString",
@@ -3069,7 +3119,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 0
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -3089,7 +3139,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 0
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -3097,6 +3147,46 @@
           [
             -117.06233381372557,
             33.08015377549619
+          ],
+          [
+            -117.0625305809109,
+            33.07993911718911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "throw",
+        "hole_res": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.0625305809109,
+            33.07993911718911
+          ],
+          [
+            -117.06251739290637,
+            33.07988183678027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "thing": "throw",
+        "hole_res": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.06251739290637,
+            33.07988183678027
           ],
           [
             -117.06251590323458,
@@ -3109,7 +3199,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": 0
+        "hole_res": 2
       },
       "geometry": {
         "type": "LineString",
@@ -3129,7 +3219,7 @@
       "type": "Feature",
       "properties": {
         "thing": "throw",
-        "hole_res": -1
+        "hole_res": -2
       },
       "geometry": {
         "type": "LineString",
@@ -3139,28 +3229,8 @@
             33.07957270571798
           ],
           [
-            -117.06142839922049,
-            33.07954204527398
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "thing": "throw",
-        "hole_res": -1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -117.06142839922049,
-            33.07954204527398
-          ],
-          [
-            -117.061299,
-            33.079534
+            -117.061446,
+            33.079357
           ]
         ]
       }
