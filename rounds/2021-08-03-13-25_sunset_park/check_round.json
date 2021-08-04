@@ -217,7 +217,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG_PINK",
+        "disc_name": "BIG-PINK",
         "name": "1"
       },
       "geometry": {
@@ -277,7 +277,7 @@
       "type": "Feature",
       "properties": {
         "thing": "raw_mark",
-        "disc_name": "BIG_PINK",
+        "disc_name": "BIG-PINK",
         "name": "5"
       },
       "geometry": {
