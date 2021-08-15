@@ -9,8 +9,8 @@
 		],
 		"datasets": [
 			{
-				"Label": "Recent Scores",
-				"Data": [
+				"label": "Recent Scores",
+				"data": [
 					-3,
 					-2,
 					-1,
