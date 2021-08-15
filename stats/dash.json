@@ -33,7 +33,7 @@
 		{
 			"id": "FLIPPER",
 			"image": "pink_champion_sidewinder.png",
-			"mold": "Sidewinder",
+			"mold": "Innova Sidewinder",
 			"plastic": "CHAMPION",
 			"mass": 175.2,
 			"numbers": "9, -3, 5, 1"
@@ -41,7 +41,7 @@
 		{
 			"id": "JUDY",
 			"image": "pink_judge.png",
-			"mold": "Judge",
+			"mold": "Dynamic Discs Judge",
 			"plastic": "CLASSIC BLEND",
 			"mass": 173.4,
 			"numbers": "2, 0, 4, 1"
@@ -49,7 +49,7 @@
 		{
 			"id": "BARELY_KNOW_HER",
 			"image": "pink_destroyer.png",
-			"mold": "Destroyer",
+			"mold": "Innova Destroyer",
 			"plastic": "STAR",
 			"mass": 175.3,
 			"numbers": "12, -1, 5, 3"
@@ -57,7 +57,7 @@
 		{
 			"id": "BUZZBUZZ",
 			"image": "green_buzzz.png",
-			"mold": "Buzzz",
+			"mold": "Discraft Buzzz",
 			"plastic": "Z",
 			"mass": 178.6,
 			"numbers": "5, -1, 4, 1"
