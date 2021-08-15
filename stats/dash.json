@@ -65,22 +65,10 @@
 	],
 	"rounds": [
 		{
-			"id": "2021-07-26-08-18-55_-_kit_carson",
-			"date": "2021-07-26",
+			"id": "2021-08-10-07-31-03_-_kit_carson",
+			"date": "2021-08-10",
 			"course": "kit_carson",
-			"score": "-3"
-		},
-		{
-			"id": "2021-08-03-06-23-29_-_sunset_park",
-			"date": "2021-08-03",
-			"course": "sunset_park",
-			"score": "-2"
-		},
-		{
-			"id": "2021-08-04-05-53-07_-_wild_horse",
-			"date": "2021-08-04",
-			"course": "wild_horse",
-			"score": "-1"
+			"score": "-4"
 		},
 		{
 			"id": "2021-08-10-06-13-04_-_kit_carson",
@@ -89,10 +77,22 @@
 			"score": "-7"
 		},
 		{
-			"id": "2021-08-10-07-31-03_-_kit_carson",
-			"date": "2021-08-10",
+			"id": "2021-08-04-05-53-07_-_wild_horse",
+			"date": "2021-08-04",
+			"course": "wild_horse",
+			"score": "-1"
+		},
+		{
+			"id": "2021-08-03-06-23-29_-_sunset_park",
+			"date": "2021-08-03",
+			"course": "sunset_park",
+			"score": "-2"
+		},
+		{
+			"id": "2021-07-26-08-18-55_-_kit_carson",
+			"date": "2021-07-26",
 			"course": "kit_carson",
-			"score": "-4"
+			"score": "-3"
 		}
 	],
 	"putts": {
