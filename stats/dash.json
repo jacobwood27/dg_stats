@@ -9,13 +9,13 @@
 		],
 		"datasets": [
 			{
-				"Label": "Recent Scores",
-				"Data": [
-					"-3",
-					"-2",
-					"-1",
-					"-7",
-					"-4"
+				"label": "Recent Scores",
+				"data": [
+					-3,
+					-2,
+					-1,
+					-7,
+					-4
 				],
 				"backgroundColor": "rgba(60,141,188,0.9)",
 				"borderColor": "rgba(60,141,188,0.8)",
@@ -94,5 +94,92 @@
 			"course": "kit_carson",
 			"score": "-4"
 		}
-	]
+	],
+	"putts": {
+		"labels": [
+			"2021-07-26",
+			"2021-08-03",
+			"2021-08-04",
+			"2021-08-10",
+			"2021-08-10"
+		],
+		"datasets": [
+			{
+				"label": "0 - 10 ft",
+				"data": [
+					100,
+					100,
+					100,
+					100,
+					100
+				],
+				"backgroundColor": "rgba(60,141,188,0.9)",
+				"borderColor": "rgba(60,141,188,0.8)",
+				"pointRadius": 5,
+				"pointColor": "#3b8bba",
+				"pointStrokeColor": "rgba(60,141,188,1)",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(60,141,188,1)",
+				"showLine": true,
+				"fill": false
+			},
+			{
+				"label": "10 - 20 ft",
+				"data": [
+					80,
+					100,
+					83,
+					75,
+					87
+				],
+				"backgroundColor": "rgba(60,141,188,0.9)",
+				"borderColor": "rgba(60,141,188,0.8)",
+				"pointRadius": 5,
+				"pointColor": "#3b8bba",
+				"pointStrokeColor": "rgba(60,141,188,1)",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(60,141,188,1)",
+				"showLine": true,
+				"fill": false
+			},
+			{
+				"label": "20 - 33 ft",
+				"data": [
+					83,
+					87,
+					60,
+					80,
+					50
+				],
+				"backgroundColor": "rgba(60,141,188,0.9)",
+				"borderColor": "rgba(60,141,188,0.8)",
+				"pointRadius": 5,
+				"pointColor": "#3b8bba",
+				"pointStrokeColor": "rgba(60,141,188,1)",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(60,141,188,1)",
+				"showLine": true,
+				"fill": false
+			},
+			{
+				"label": "33 - 66 ft",
+				"data": [
+					37,
+					0,
+					16,
+					25,
+					20
+				],
+				"backgroundColor": "rgba(60,141,188,0.9)",
+				"borderColor": "rgba(60,141,188,0.8)",
+				"pointRadius": 5,
+				"pointColor": "#3b8bba",
+				"pointStrokeColor": "rgba(60,141,188,1)",
+				"pointHighlightFill": "#fff",
+				"pointHighlightStroke": "rgba(60,141,188,1)",
+				"showLine": true,
+				"fill": false
+			}
+		]
+	}
 }
