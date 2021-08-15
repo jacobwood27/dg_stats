@@ -11,11 +11,11 @@
 			{
 				"Label": "Recent Scores",
 				"Data": [
-					"-3",
-					"-2",
-					"-1",
-					"-7",
-					"-4"
+					-3,
+					-2,
+					-1,
+					-7,
+					-4
 				],
 				"backgroundColor": "rgba(60,141,188,0.9)",
 				"borderColor": "rgba(60,141,188,0.8)",
