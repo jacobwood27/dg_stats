@@ -1,2 +1,6 @@
-date,course,round,num_holes,par,total,result
-2021-07-26,kit_carson,2021-07-26-15-19_kit_carson,18,57,56,-1
+Date,CourseID,RoundID,NumHoles,Par,Total,Score
+2021-07-26,kit_carson,2021-07-26-08-18-55_-_kit_carson,18,57,54,-3
+2021-08-03,sunset_park,2021-08-03-06-23-29_-_sunset_park,24,73,71,-2
+2021-08-04,wild_horse,2021-08-04-05-53-07_-_wild_horse,16,54,53,-1
+2021-08-10,kit_carson,2021-08-10-06-13-04_-_kit_carson,18,57,50,-7
+2021-08-10,kit_carson,2021-08-10-07-31-03_-_kit_carson,18,57,53,-4
