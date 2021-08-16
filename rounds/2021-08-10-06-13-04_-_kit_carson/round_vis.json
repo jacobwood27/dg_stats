@@ -966,7 +966,7 @@
 			"type": "Feature",
 			"properties": {
 				"thing": "stamp",
-				"disc_name": "JUDY",
+				"disc_name": "FLIPPER",
 				"name": "0",
 				"par": 0,
 				"res": 0
@@ -983,7 +983,7 @@
 			"type": "Feature",
 			"properties": {
 				"thing": "stamp",
-				"disc_name": "UNDEFINED",
+				"disc_name": "JUDY",
 				"name": "1",
 				"par": 0,
 				"res": 0
@@ -991,8 +991,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-117.05788282221232,
-					33.07997339083637
+					-117.057883,
+					33.079973
 				]
 			}
 		},
@@ -1442,7 +1442,7 @@
 			"type": "Feature",
 			"properties": {
 				"thing": "stamp",
-				"disc_name": "UNDEFINED",
+				"disc_name": "BARELY_KNOW_HER",
 				"name": "28",
 				"par": 0,
 				"res": 0
@@ -1833,7 +1833,7 @@
 			"type": "Feature",
 			"properties": {
 				"thing": "stamp",
-				"disc_name": "UNDEFINED",
+				"disc_name": "JUDY",
 				"name": "51",
 				"par": 0,
 				"res": 0
@@ -2088,7 +2088,7 @@
 			"type": "Feature",
 			"properties": {
 				"thing": "stamp",
-				"disc_name": "UNDEFINED",
+				"disc_name": "JUDY",
 				"name": "66",
 				"par": 0,
 				"res": 0
@@ -2135,8 +2135,8 @@
 						33.079341451548174
 					],
 					[
-						-117.05788282221232,
-						33.07997339083637
+						-117.057883,
+						33.079973
 					]
 				]
 			}
@@ -2154,8 +2154,8 @@
 				"type": "LineString",
 				"coordinates": [
 					[
-						-117.05788282221232,
-						33.07997339083637
+						-117.057883,
+						33.079973
 					],
 					[
 						-117.05780006680942,
