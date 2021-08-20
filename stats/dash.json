@@ -286,17 +286,17 @@
 		],
 		"datasets": [
 			{
-				"label": "FLIPPER",
+				"label": "BARELY_KNOW_HER",
 				"data": [
-					11,
-					1,
+					9,
+					28,
+					33,
+					18,
+					26,
+					21,
 					0,
-					22,
-					13,
-					8,
-					34,
-					13,
-					25
+					21,
+					20
 				],
 				"backgroundColor": "#4e79a7",
 				"borderColor": "#4e79a7",
@@ -305,21 +305,21 @@
 				"pointStrokeColor": "#4e79a7",
 				"pointHighlightFill": "#fff",
 				"pointHighlightStroke": "#4e79a7",
-				"showLine": false,
+				"showLine": true,
 				"fill": true
 			},
 			{
-				"label": "BARELY_KNOW_HER",
+				"label": "BUZZBUZZ",
 				"data": [
-					20,
-					29,
-					33,
-					40,
-					39,
-					29,
-					34,
-					35,
-					45
+					37,
+					45,
+					47,
+					24,
+					28,
+					21,
+					0,
+					21,
+					20
 				],
 				"backgroundColor": "#f28e2c",
 				"borderColor": "#f28e2c",
@@ -328,21 +328,21 @@
 				"pointStrokeColor": "#f28e2c",
 				"pointHighlightFill": "#fff",
 				"pointHighlightStroke": "#f28e2c",
-				"showLine": false,
+				"showLine": true,
 				"fill": true
 			},
 			{
-				"label": "BUZZBUZZ",
+				"label": "JUDY",
 				"data": [
-					48,
-					46,
-					47,
-					46,
-					41,
-					29,
-					34,
-					35,
-					45
+					88,
+					98,
+					100,
+					78,
+					86,
+					91,
+					65,
+					86,
+					75
 				],
 				"backgroundColor": "#e15759",
 				"borderColor": "#e15759",
@@ -351,11 +351,11 @@
 				"pointStrokeColor": "#e15759",
 				"pointHighlightFill": "#fff",
 				"pointHighlightStroke": "#e15759",
-				"showLine": false,
+				"showLine": true,
 				"fill": true
 			},
 			{
-				"label": "JUDY",
+				"label": "FLIPPER",
 				"data": [
 					100,
 					100,
@@ -374,7 +374,7 @@
 				"pointStrokeColor": "#76b7b2",
 				"pointHighlightFill": "#fff",
 				"pointHighlightStroke": "#76b7b2",
-				"showLine": false,
+				"showLine": true,
 				"fill": true
 			}
 		]
