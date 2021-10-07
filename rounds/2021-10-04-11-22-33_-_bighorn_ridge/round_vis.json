@@ -1,0 +1,2462 @@
+{
+	"type": "FeatureCollection",
+	"discs": [
+		{
+			"id": "UNDEFINED",
+			"image": "blank.png"
+		},
+		{
+			"id": "BASKET",
+			"image": "basket.png"
+		},
+		{
+			"id": "FLIPPER",
+			"image": "pink_champion_sidewinder.png"
+		},
+		{
+			"id": "JUDY",
+			"image": "pink_judge.png"
+		},
+		{
+			"id": "BARELY_KNOW_HER",
+			"image": "pink_destroyer.png"
+		},
+		{
+			"id": "BUZZBUZZ",
+			"image": "green_buzzz.png"
+		}
+	],
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "1_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.289173066616,
+					45.271543598973
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "1_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.288077384233,
+					45.2715832385227
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "2_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287823915482,
+					45.2715077345946
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "2_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286438554525,
+					45.271723864321
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "3_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286126077175,
+					45.2717455716279
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "3_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286745667458,
+					45.2719503749413
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "4_long",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287005841732,
+					45.2720287096538
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "4_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285753250122,
+					45.2722193551288
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "5_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285686194897,
+					45.272423212948
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "5_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284807771444,
+					45.2723599793509
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "6_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284754127264,
+					45.2724038653623
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "6_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284117102623,
+					45.2723571479942
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "7_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283244043589,
+					45.2723590355653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "7_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.281980723143,
+					45.271833344567
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "8_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28246486187,
+					45.2718814780566
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "8_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28178358078,
+					45.2714548817852
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "14_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.282784044743,
+					45.2715813509257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "14_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283599436283,
+					45.2717993679616
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "15_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283922642469,
+					45.2718824218501
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "15_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284265965223,
+					45.2720957187799
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "16_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28477960825,
+					45.2722835326694
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "16_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285074651241,
+					45.2719296115054
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "17_reg",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285093426704,
+					45.2718503328621
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "17_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285320073366,
+					45.2716332598197
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "tee",
+				"disc_name": "",
+				"name": "18_long",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285658031702,
+					45.2715738005372
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "pin",
+				"disc_name": "",
+				"name": "18_x",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287280768156,
+					45.2709206881273
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "0",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.289173,
+					45.271544
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "1",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.288072,
+					45.271557
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "2",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.288077,
+					45.271583
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "3",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287824,
+					45.271508
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "4",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286793,
+					45.271523
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "5",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286471,
+					45.271733
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "6",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286439,
+					45.271724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "7",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286126,
+					45.271746
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "8",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287116,
+					45.271878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "9",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286762,
+					45.271935
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "10",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286746,
+					45.27195
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "11",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287006,
+					45.272029
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "12",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285745,
+					45.272283
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "13",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285753,
+					45.272219
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "14",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285686,
+					45.272423
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "15",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284698,
+					45.272284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "16",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284769,
+					45.272361
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "17",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284808,
+					45.27236
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "18",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284754,
+					45.272404
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "19",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284059,
+					45.272334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "20",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284117,
+					45.272357
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "21",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283244,
+					45.272359
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "22",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.281612,
+					45.271829
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "23",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28196,
+					45.271848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "24",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.281981,
+					45.271833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "25",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.282465,
+					45.271881
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "26",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28175,
+					45.271328
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "27",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.281755,
+					45.271479
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "28",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.281784,
+					45.271455
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "29",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.282784,
+					45.271581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "30",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283546,
+					45.271799
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "31",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283599,
+					45.271799
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "32",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.283923,
+					45.271882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "33",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284267,
+					45.272042
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "34",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284275,
+					45.272117
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "35",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.284266,
+					45.272096
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "36",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28478,
+					45.272284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "37",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28501,
+					45.271954
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "38",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285075,
+					45.27193
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "39",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285093,
+					45.27185
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "40",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285324,
+					45.271536
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "FLIPPER",
+				"name": "41",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285312,
+					45.271646
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "42",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.28532,
+					45.271633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "43",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.285658,
+					45.271574
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "44",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.286376,
+					45.270814
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BARELY_KNOW_HER",
+				"name": "45",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287309,
+					45.270842
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "stamp",
+				"disc_name": "BASKET",
+				"name": "46",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.287281,
+					45.270921
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "1",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.289173,
+						45.271544
+					],
+					[
+						-111.288072,
+						45.271557
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "2",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.288072,
+						45.271557
+					],
+					[
+						-111.288077,
+						45.271583
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "3",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.288077,
+						45.271583
+					],
+					[
+						-111.287824,
+						45.271508
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "4",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.287824,
+						45.271508
+					],
+					[
+						-111.286793,
+						45.271523
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "5",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286793,
+						45.271523
+					],
+					[
+						-111.286471,
+						45.271733
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "6",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286471,
+						45.271733
+					],
+					[
+						-111.286439,
+						45.271724
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "7",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286439,
+						45.271724
+					],
+					[
+						-111.286126,
+						45.271746
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "8",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286126,
+						45.271746
+					],
+					[
+						-111.287116,
+						45.271878
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "9",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.287116,
+						45.271878
+					],
+					[
+						-111.286762,
+						45.271935
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "10",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286762,
+						45.271935
+					],
+					[
+						-111.286746,
+						45.27195
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "11",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286746,
+						45.27195
+					],
+					[
+						-111.287006,
+						45.272029
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "12",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.287006,
+						45.272029
+					],
+					[
+						-111.285745,
+						45.272283
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "13",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285745,
+						45.272283
+					],
+					[
+						-111.285753,
+						45.272219
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "14",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285753,
+						45.272219
+					],
+					[
+						-111.285686,
+						45.272423
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "15",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285686,
+						45.272423
+					],
+					[
+						-111.284698,
+						45.272284
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "16",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284698,
+						45.272284
+					],
+					[
+						-111.284769,
+						45.272361
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "17",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284769,
+						45.272361
+					],
+					[
+						-111.284808,
+						45.27236
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "18",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284808,
+						45.27236
+					],
+					[
+						-111.284754,
+						45.272404
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "19",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284754,
+						45.272404
+					],
+					[
+						-111.284059,
+						45.272334
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "20",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284059,
+						45.272334
+					],
+					[
+						-111.284117,
+						45.272357
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "21",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284117,
+						45.272357
+					],
+					[
+						-111.283244,
+						45.272359
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "22",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.283244,
+						45.272359
+					],
+					[
+						-111.281612,
+						45.271829
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "23",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.281612,
+						45.271829
+					],
+					[
+						-111.28196,
+						45.271848
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "24",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.28196,
+						45.271848
+					],
+					[
+						-111.281981,
+						45.271833
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "25",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.281981,
+						45.271833
+					],
+					[
+						-111.282465,
+						45.271881
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "26",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.282465,
+						45.271881
+					],
+					[
+						-111.28175,
+						45.271328
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "27",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.28175,
+						45.271328
+					],
+					[
+						-111.281755,
+						45.271479
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "28",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.281755,
+						45.271479
+					],
+					[
+						-111.281784,
+						45.271455
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "29",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.281784,
+						45.271455
+					],
+					[
+						-111.282784,
+						45.271581
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "30",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.282784,
+						45.271581
+					],
+					[
+						-111.283546,
+						45.271799
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "31",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.283546,
+						45.271799
+					],
+					[
+						-111.283599,
+						45.271799
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "32",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.283599,
+						45.271799
+					],
+					[
+						-111.283923,
+						45.271882
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "33",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.283923,
+						45.271882
+					],
+					[
+						-111.284267,
+						45.272042
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "34",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284267,
+						45.272042
+					],
+					[
+						-111.284275,
+						45.272117
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "35",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284275,
+						45.272117
+					],
+					[
+						-111.284266,
+						45.272096
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "36",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.284266,
+						45.272096
+					],
+					[
+						-111.28478,
+						45.272284
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "37",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.28478,
+						45.272284
+					],
+					[
+						-111.28501,
+						45.271954
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "38",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.28501,
+						45.271954
+					],
+					[
+						-111.285075,
+						45.27193
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "39",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285075,
+						45.27193
+					],
+					[
+						-111.285093,
+						45.27185
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "40",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285093,
+						45.27185
+					],
+					[
+						-111.285324,
+						45.271536
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "41",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285324,
+						45.271536
+					],
+					[
+						-111.285312,
+						45.271646
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "42",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285312,
+						45.271646
+					],
+					[
+						-111.28532,
+						45.271633
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "walk",
+				"disc_name": "",
+				"name": "43",
+				"par": 0,
+				"res": 0
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.28532,
+						45.271633
+					],
+					[
+						-111.285658,
+						45.271574
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "44",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.285658,
+						45.271574
+					],
+					[
+						-111.286376,
+						45.270814
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "45",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.286376,
+						45.270814
+					],
+					[
+						-111.287309,
+						45.270842
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"thing": "throw",
+				"disc_name": "",
+				"name": "46",
+				"par": 0,
+				"res": -1
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-111.287309,
+						45.270842
+					],
+					[
+						-111.287281,
+						45.270921
+					]
+				]
+			}
+		}
+	],
+	"table": [
+		{
+			"hole": "1",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 282,
+			"par": 3,
+			"score": 2,
+			"res": -1,
+			"tot": -1
+		},
+		{
+			"hole": "2",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 365,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -1
+		},
+		{
+			"hole": "3",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 176,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -1
+		},
+		{
+			"hole": "4",
+			"tee": "long",
+			"pin": "x",
+			"dist": 329,
+			"par": 3,
+			"score": 2,
+			"res": -1,
+			"tot": -2
+		},
+		{
+			"hole": "5",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 227,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -2
+		},
+		{
+			"hole": "6",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 165,
+			"par": 3,
+			"score": 2,
+			"res": -1,
+			"tot": -3
+		},
+		{
+			"hole": "7",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 377,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -3
+		},
+		{
+			"hole": "8",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 234,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -3
+		},
+		{
+			"hole": "14",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 224,
+			"par": 3,
+			"score": 2,
+			"res": -1,
+			"tot": -4
+		},
+		{
+			"hole": "15",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 118,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -4
+		},
+		{
+			"hole": "16",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 150,
+			"par": 3,
+			"score": 2,
+			"res": -1,
+			"tot": -5
+		},
+		{
+			"hole": "17",
+			"tee": "reg",
+			"pin": "x",
+			"dist": 98,
+			"par": 3,
+			"score": 3,
+			"res": 0,
+			"tot": -5
+		},
+		{
+			"hole": "18",
+			"tee": "long",
+			"pin": "x",
+			"dist": 480,
+			"par": 4,
+			"score": 3,
+			"res": -1,
+			"tot": -6
+		}
+	]
+}
